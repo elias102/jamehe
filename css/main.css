@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Vazir";
+    src: url("../fonts/Vazir-Regular-FD.ttf");
+    src: url("../fonts/Vazir-Regular-FD.woff");
+    src: url("../fonts/Vazir-Regular-FD.eot");
+    src: url("../fonts/Vazir-Regular-FD.woff2");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Vazir, sans-serif;
+}
+
+.nav-color {
+    background: linear-gradient(to right, rgb(70, 96, 241), rgb(21, 48, 205)) !important;
+    box-shadow: 3px 1px 5px rgba(57, 57, 57, 0.57);
+}
+
+.sidebar {
+    background: linear-gradient(to top, rgb(70, 96, 241), rgb(21, 48, 205)) !important;
+    box-shadow: 3px 1px 5px rgba(57, 57, 57, 0.57);
+ flex-direction: row-reverse;
+}
+
+.align-center {
+    text-align: center !important;
+}
+.txt-align-right {
+    text-align: right;
+}
+ 
