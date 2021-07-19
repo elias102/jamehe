@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html lang="fa" dir="rtl">
-<head>
-    <meta charset="UTF-8">
-    <title>سیستم رزنگرزی جامعه</title>
+<?php
+    require_once("template/header.php")
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="./fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/main.css">
-
-</head>
-<body>
+?>
 <!-- Code for navbar -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light nav-color flex-row justify-content-between text-white">
     <h1 class="">جامعه</h1>
